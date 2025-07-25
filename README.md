@@ -7,7 +7,11 @@ Otwieramy prawym przyciskiem -> open image in new tab:
 
 <img width="1570" height="913" alt="image" src="https://github.com/user-attachments/assets/cf5a1862-6676-41a9-9393-d9c1cd8a5d3b" />
 
-Z tego obazu kopiujemy link i podmieniamy w cartographerze, po lewej stronie wpisujemy nazwe mapy do podmiany a po prawej link do mapy. Wygląda to tak: 
+Z tego obazu kopiujemy link i podmieniamy w cartographerze. 
+
+<img width="1444" height="743" alt="image" src="https://github.com/user-attachments/assets/2b60f988-6b47-4dbc-a2f7-de477a2d8591" />
+
+Po lewej stronie wpisujemy nazwe mapy do podmiany a po prawej link do mapy. Wygląda to tak: 
 
 <img width="567" height="204" alt="image" src="https://github.com/user-attachments/assets/370cc900-b746-422b-9e01-5f1ce4e39fb0" />
 
